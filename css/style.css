@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    margin-bottom: 40px;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.see{
+    color: #ffc107 !important;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray
+}
+
+.card-body{
+    text-align: center;
+}
+
+.Categories{
+    margin-top: 10px;
+    border-bottom: 8px solid #ffc107;
+    border-radius: 10px;
+}
+
+.category-item {
+    padding:  20px 20px;
+}
